@@ -1,0 +1,77 @@
+font-family: 'Raleway', sans-serif;
+.navbar 
+{
+	opacity: 0.8;
+	border-bottom: 1px solid #fff;
+}
+body,html{
+    height: 100%;
+}
+.en_alt{
+     position:fixed;
+   bottom:0;
+   width:100%;
+   height: 30px;  
+   background:#6cf;
+   text-align:center;
+}
+.main_hakkinda{
+    background:#FFCC99;
+    background-size: fixed;
+    height: 100%;
+    background-position: center;
+}
+.mirasimiz_background{
+    background: url("img/kocatepeanit.jpg");
+    background-size:cover;
+    height: 100%;
+    background-position: center;
+}
+.hakkinda_yazi{
+  
+    top: 0px;
+}
+.ozgecmis_background{
+    background: #add8e6;
+    height: 100%;
+}
+.ozgecmis_tablo{
+    height: 400px;
+}
+.film_resim{
+    height: 30%;
+    width: 80%;
+}
+.bilgi_tablo{
+    position: absolute;
+    top: 40%;
+    right: 5%;
+}
+.resimSlider{
+    width: 100%;
+    height: 100%;
+}
+.kale_background{
+    background-image: url(img/kale.jpg); 
+    background-size: cover;
+    height: 100%;
+    opacity: 0.9;
+}
+.park_background{
+    background-image: url(img/millipark.jpg); 
+    background-size: cover;
+    height: 100%;
+    opacity: 0.9;
+}
+.gazligol_background{
+    background-image: url(img/gazligol.jpg); 
+    background-size: cover;
+    height: 100%;
+    opacity: 0.9;
+}
+.frig_background{
+    background-image: url(img/frig.jpg); 
+    background-size: cover;
+    height: 100%;
+    opacity: 0.9;
+}
